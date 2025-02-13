@@ -4,8 +4,10 @@ Startpunkt für die Projektgruppe Kefir-Optimierung. Implementiert in Meta AX
 ## Projekt starten
 Python environment erstellen 
 ```python -m venv .env```
+
 Requirements installieren
 ```pip install -r requirements.txt```
+
 Datei ausführen
 ```python single_objective_det.py```
 
