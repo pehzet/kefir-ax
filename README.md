@@ -1,6 +1,14 @@
 # Bayesian Optimization für die Optimierung von Kefirexperimenten.
 Startpunkt für die Projektgruppe Kefir-Optimierung. Implementiert in Meta AX
 
+## Projekt starten
+Python environment erstellen 
+```python -m venv .env```
+Requirements installieren
+```pip install -r requirements.txt```
+Datei ausführen
+```python single_objective_det.py```
+
 ## Theoretische Einführung
 ### Wissenschaftliche Paper
 Hier die wichtigsten Paper für den Einstieg in Bayes'sche Optimierung
